@@ -17,9 +17,7 @@ export default siteConfig({
   description: '个人分享',
 
   // social usernames (optional)
-  twitter: 'xx',
   github: 'zhb1994',
-  linkedin: 'xx',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
